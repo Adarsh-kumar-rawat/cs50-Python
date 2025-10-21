@@ -1,0 +1,3 @@
+Since ChatMini uses only Python’s built-in modules, it can be empty, or include:
+pytest
+This allows graders to run your tests
